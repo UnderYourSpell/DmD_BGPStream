@@ -1,0 +1,10 @@
+https://bgpstream.caida.org/docs/tutorials/pybgpstream  BGPstream website
+
+https://github.com/CAIDA/libbgpstream/blob/master/FILTERING  Filtering docs
+
+https://github.com/CAIDA/pybgpstream  Repo for pybgpstream
+
+https://bgpstream.caida.org/docs/api/pybgpstream/_pybgpstream.html  Low level API reference
+
+https://bgpstream.caida.org/docs/api/pybgpstream/pybgpstream.html high level API reference
+
