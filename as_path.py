@@ -11,7 +11,9 @@ bgp_lens = defaultdict(lambda: defaultdict(lambda: None))
 stream = pybgpstream.BGPStream(
     # Consider this time interval:
     # Sat, 01 Aug 2015 7:50:00 GMT -  08:10:00 GMT
-    from_time="2015-08-01 07:50:00", until_time="2015-08-01 08:10:00",
+    #from_time="2015-08-01 07:50:00", until_time="2015-08-01 08:10:00",
+    #fuck your time interval, we will run for 10 seconds
+    #after I get this to work
     collectors=["rrc00"],
     record_type="ribs",
 )
